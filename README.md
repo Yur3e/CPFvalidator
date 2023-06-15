@@ -1,7 +1,8 @@
 # CPF Validator
 
 Este é um programa simples em Python que permite verificar a validade de um CPF existente ou gerar CPFs válidos.
-![Validador de CPF](https://github.com/Yur3e/Python-Repository/assets/88630655/fc832fd2-053e-46c4-9579-4506e063c9e1)
+
+![CPF Validator](https://github.com/Yur3e/CPF-Gerador-Validador/assets/88630655/b8186fb7-d098-4915-be17-c47cfc1ba8f9)
 
 
 ## Funcionalidades
