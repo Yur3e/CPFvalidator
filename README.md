@@ -14,7 +14,7 @@ O programa oferece as seguintes funcionalidades:
 
 ## Requisitos
 
-- Python 3.x
+- Python
 - PySimpleGUI
 
 ## Como usar
@@ -43,4 +43,4 @@ O programa oferece as seguintes funcionalidades:
 
 Esse código é uma implementação simples de um validador de CPF em Python utilizando a biblioteca PySimpleGUI para a criação da interface gráfica. Ele possui duas funcionalidades principais: verificar a validade de um CPF existente e gerar CPFs válidos. O resultado das operações é exibido em uma tabela na janela.
 
-Para utilizar o programa, é necessário ter o Python 3.x instalado, juntamente com a biblioteca PySimpleGUI. As instruções detalhadas sobre como instalar os requisitos e executar o programa são fornecidas no README.md do repositório.
+Para utilizar o programa, é necessário ter o Python instalado, juntamente com a biblioteca PySimpleGUI. As instruções detalhadas sobre como instalar os requisitos e executar o programa são fornecidas no README.md do repositório.
