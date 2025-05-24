@@ -1,4 +1,4 @@
-# CPF Validator
+# Gerador de CPF
 
 Este é um programa simples em Python que permite verificar a validade de um CPF existente ou gerar CPFs válidos.
 
